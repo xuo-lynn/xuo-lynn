@@ -24,9 +24,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xuo-lynn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </a>
 </p>
-
-<p align="center">### 🤝🏻 &nbsp;Connect with Me></p>
-
+<p align="center">
+### 🤝🏻 &nbsp;Connect with Me>
+</p>
 <p align="center">
 <!--<a href="link"><img src="https://img.shields.io/badge/-link.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>-->
 <a href="https://www.linkedin.com/in/xuolynn/"><img src="https://img.shields.io/badge/-Set%20Lynn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
