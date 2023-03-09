@@ -25,9 +25,9 @@
 </a>
 </p>
 
-<h1 align="center">
+<h2 align="center">
 ### 🤝🏻 &nbsp;Connect with Me>
-</h1>
+</h2>
 
 
 <p align="center">
