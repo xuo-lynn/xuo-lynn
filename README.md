@@ -21,7 +21,7 @@
 
 <p align="left">
 <a href="https://github.com/1tracy">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=1tracy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xuo-lynn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
