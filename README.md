@@ -25,7 +25,7 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+<p align="center">### 🤝🏻 &nbsp;Connect with Me></p>
 
 <p align="center">
 <!--<a href="link"><img src="https://img.shields.io/badge/-link.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>-->
