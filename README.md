@@ -2,9 +2,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;hey, lynn here.\
-🌱 &nbsp;I'm on track to learn more about algorithm design and combinatorics.\
+🌱 &nbsp;why didn't the programmer get a raise? he didn't get arrays.\
 ✍️ &nbsp;i like to eat in my free time :)\
-✉️ &nbsp;press the little  I'll try to respond as soon as I can.
+✉️ &nbsp;message me and i'll probably respond instantly!.
 
 <img alt="Coder" src="me_coding.gif" align="right"/>
 
