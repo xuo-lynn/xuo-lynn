@@ -1,7 +1,7 @@
 <!-- ## 👋 &nbsp;hi im xuo -->
 
 ### 👨🏻‍💻 &nbsp;About Me
-💡 &nbsp;hi i like coding.\
+💡 &nbsp;hey, lynn here.\
 🌱 &nbsp;I'm on track to learn more about algorithm design and combinatorics.\
 ✍️ &nbsp;i like to eat in my free time :)\
 ✉️ &nbsp;press the little  I'll try to respond as soon as I can.
