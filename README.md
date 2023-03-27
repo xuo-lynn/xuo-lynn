@@ -2,8 +2,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;hey, lynn here.\
-🌱 &nbsp;why didn't the programmer get a raise? he didn't get arrays.\
-✍️ &nbsp;i like to eat in my free time :)\
+🌱 &nbsp;why didn't the programmer get a raise? he didn't get arrays!.\
+🍟 &nbsp;i like to eat in my free time\
 ✉️ &nbsp;message me and i'll probably respond instantly!.
 
 <img alt="Coder" src="me_coding.gif" align="right"/>
