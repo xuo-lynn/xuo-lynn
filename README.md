@@ -27,8 +27,6 @@
 </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuo-lynn)](https://github.com/xuo-lynn/github-readme-stats)
-
 <h3 align="center">
 🤝🏻 &nbsp;Connect with Me
 </h3>
