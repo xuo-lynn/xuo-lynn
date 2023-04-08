@@ -6,7 +6,7 @@
 🍟 &nbsp;i like to eat in my free time\
 ✉️ &nbsp;message me and i'll respond instantly!.
 
-<img alt="Coder" src="me_coding.gif" align="right"/>
+<img alt="Coder" src="melody.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
