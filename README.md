@@ -25,8 +25,9 @@
 <a href="https://github.com/xuo-lynn">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xuo-lynn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuo-lynn)](https://github.com/xuo-lynn/github-readme-stats)
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuo-lynn)](https://github.com/xuo-lynn/github-readme-stats)
 
 <h3 align="center">
 🤝🏻 &nbsp;Connect with Me
