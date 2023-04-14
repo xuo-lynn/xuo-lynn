@@ -28,7 +28,7 @@
 </p>
 
 <h3 align="center">
-🤝🏻 &nbsp;Connect with Me
+🏻 &nbsp;Connect with Me
 </h3>
 
 
