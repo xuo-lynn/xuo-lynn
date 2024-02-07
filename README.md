@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;hey, lynn here.\
 🌱 &nbsp;why didn't the programmer get a raise? he didn't get arrays!\
-🍟 &nbsp;i like to eat in my free time.\
+🎸 &nbsp;i like to play guitar in my free time.\
 ✉️ &nbsp;message me and i'll respond instantly!
 
 <img alt="Coder" src="melody.gif" align="right"/>
@@ -36,5 +36,4 @@
 <!--<a href="link"><img src="https://img.shields.io/badge/-link.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>-->
 <a href="https://www.linkedin.com/in/xuolynn/"><img src="https://img.shields.io/badge/-Set%20Lynn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:xuolynn@gmail.com"><img src="https://img.shields.io/badge/-xuolynn@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/xuo.wav"><img src="https://img.shields.io/badge/-@dprxuo-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
