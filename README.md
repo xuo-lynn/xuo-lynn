@@ -20,7 +20,11 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
 ### ⚙️ &nbsp;Cool Analytics
-
+<p align="left">
+<a href="https://github.com/xuo-lynn">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xuo-lynn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</a>
+</p>
 
 
 <h3 align="center">
