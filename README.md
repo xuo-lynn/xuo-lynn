@@ -1,8 +1,8 @@
 <!-- ## 👋 &nbsp;hi im xuo -->
 
 ### 👨🏻‍💻 &nbsp;About Me
-💡 &nbsp;hey, lynn here.\
-🌱 &nbsp;why didn't the programmer get a raise? he didn't get arrays!\
+💡 &nbsp;hi im lynn!\
+🌱 &nbsp;check out my pinned projects\
 🎸 &nbsp;i like to play guitar in my free time.\
 ✉️ &nbsp;message me and i'll respond instantly!
 
