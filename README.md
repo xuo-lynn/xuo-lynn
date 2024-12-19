@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;hi im lynn!\
-🌱 &nbsp;check out my website https://xuolynn.net\
+🌱 &nbsp;check out my website https://xuolynn.net \
 🎸 &nbsp;i like to play guitar in my free time.\
 ✉️ &nbsp;message me and i'll respond instantly!
 
