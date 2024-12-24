@@ -1,7 +1,7 @@
 <!-- ## 👋 &nbsp;hi im xuo -->
 
 ### 👨🏻‍💻 &nbsp;Current Activity
-[![Discord Presence](https://lanyard.cnrad.dev/api/212702039103373312)](https://discord.com/users/212702039103373312)
+[![Discord Presence](https://lanyard.cnrad.dev/api/212702039103373312)](https://discord.com/users/212702039103373312)\
 💡 &nbsp;hi im lynn!\
 🌱 &nbsp;check out my website https://xuolynn.net \
 🎸 &nbsp;i like to play guitar in my free time.\
