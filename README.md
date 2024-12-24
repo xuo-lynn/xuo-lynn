@@ -1,12 +1,11 @@
 <!-- ## 👋 &nbsp;hi im xuo -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Current Activity
+[![Discord Presence](https://lanyard.cnrad.dev/api/212702039103373312)](https://discord.com/users/212702039103373312)
 💡 &nbsp;hi im lynn!\
 🌱 &nbsp;check out my website https://xuolynn.net \
 🎸 &nbsp;i like to play guitar in my free time.\
-✉️ &nbsp;message me and i'll respond instantly!
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/212702039103373312)](https://discord.com/users/212702039103373312)
 
 ### 🛠 &nbsp;Tech Stack
 
