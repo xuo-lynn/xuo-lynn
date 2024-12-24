@@ -7,6 +7,7 @@
 ✉️ &nbsp;message me and i'll respond instantly!
 
 <img alt="Coder" src="melody.gif" align="right"/>
+[![Discord Presence](https://lanyard.cnrad.dev/api/212702039103373312)](https://discord.com/users/212702039103373312)
 
 ### 🛠 &nbsp;Tech Stack
 
